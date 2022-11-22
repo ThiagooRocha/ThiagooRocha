@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Thiago Rocha
 
 - 🌱 I’m currently learning `REACT`, `TYPESCRIPT`
-- 📫 How to reach me: thiagorochaklk@gmail.com
+- 📫 How to reach me: thiagorochakl@gmail.com
 
 <div display="flex">
   <a href="https://github.com/ThiagooRocha">
